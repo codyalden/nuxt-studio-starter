@@ -1,3 +1,9 @@
-# About Content Version 3
+# **Button Component**
 
 [Back home](/)
+
+/
+
+```vue [button.js]
+<button>hi</button>
+```
